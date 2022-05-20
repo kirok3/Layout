@@ -20,5 +20,6 @@ h2{
 .texto_italico{
     font-family: italic;
     font-family: 'Times New Roman', Times, serif;
-
+    font-weight: bold;
 }
+
